@@ -1,0 +1,56 @@
+li{
+  color: white;
+  
+}
+.hero{
+  display: flex;
+  flex-direction: column;
+  color: white;
+  padding-left: 20px;
+}
+.herotext{
+  font-size: xx-large;
+}
+.heroexplore{
+  display: flex;
+  border-radius:30px ;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  gap: 10px;
+  background-color: aliceblue;
+color: black;
+width: fit-content;
+margin-bottom: 20px;
+}
+.herolist{
+  display: flex;
+  gap: 10px;
+  background-color: aliceblue;
+  width: fit-content;
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+.herolist li{
+  list-style: none;
+  color: black;
+  cursor: pointer;
+}
+.heroplay{
+  display: flex;
+  border-radius:30px ;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  gap: 10px;
+  
+color: black;
+width: fit-content;
+
+}
+.videopara{
+  background-color: aliceblue;
+  padding: 16px;
+  border-radius: 16px;
+}
